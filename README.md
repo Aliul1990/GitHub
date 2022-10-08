@@ -1,4 +1,5 @@
-GitHub Book:
+GitHub Book: https://git-scm.com/book/en/v2
+
 
 
 Lesson 01: Git and GitHub
