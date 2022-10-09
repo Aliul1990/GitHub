@@ -18,13 +18,13 @@ GitHub:
 4. Cloud/ Web Maintained
 5. Released 2008
 
-Lesson 02: Change Tracking and Version Control System
+<h1>Lesson 02: Change Tracking and Version Control System</h1>
 
 Code 10 line
 Code 20 line
 Code 99 line
 
-Lesson 03: Download and Install git on you PC: 
+<h1>03: Download and Install git on you PC: </h1>
 Go to this link : https://git-scm.com
 Cheek version	: git --virsion
 
@@ -39,7 +39,7 @@ Change Git Name	: git config user.name "Aliul-Islam"
 Cheek		: git config user.name
 		: git config user.name
 
-Lesson 03: Local Creating
+<h1> 03: Local Creating</h1>
 
 1. Create a Folder	: git-aliul
 [NB: Right Click on folder and then click "Git Bash here" open it]
