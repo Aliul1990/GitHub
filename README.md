@@ -2,7 +2,8 @@ GitHub Book: https://git-scm.com/book/en/v2
 
 
 
-Lesson 01: Git and GitHub
+<h1>Lesson 01: Git and GitHub</h1>
+
 Git:
 1. Tool/ Software
 2. Change control /Version Control
