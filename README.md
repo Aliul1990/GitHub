@@ -41,7 +41,7 @@ Go to this link : https://git-scm.com
 
 	clear
 
-<h1>Lesson 03: SETUP</h1>
+<h1>Lesson 03: Setup & Configuration</h1>
 <h6>Configuring user information used across all local repositories</h6>
 <b>git config --global user.name “[firstname lastname]”</b>
 	
