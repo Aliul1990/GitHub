@@ -28,7 +28,7 @@ GitHub:
 Code 10 line
 Code 20 line
 Code 99 line
-
+Process: |1.Directory > git add | Stage | Repository
 <h1>Lesson 03: Download and Install git on you PC: </h1>
 Go to this link : https://git-scm.com
 
