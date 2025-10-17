@@ -33,7 +33,7 @@ Go to this link : https://git-scm.com
 
 Cheek version	
 
-		git --version
+git --version
 
 Configaration	: git config
 		: git config --global user.name "Aliul"
