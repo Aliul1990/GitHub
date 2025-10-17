@@ -54,11 +54,13 @@ Go to this link : https://git-scm.com
 
 	git config --global color.ui auto
 
-Change Git Name	: git config user.name "Aliul-Islam"
-		: git config --list
-Cheek		: git config user.name
-		: git config user.name
+<b>Change Git Name</b>
 
+	git config user.name "Aliul-Islam"
+
+		
+<b>Cheek </b>
+	git config user.name
 <h1> 03: Local Creating</h1>
 
 1. Create a Folder	: git-aliul
