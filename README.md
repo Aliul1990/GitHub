@@ -72,6 +72,9 @@ Go to this link : https://git-scm.com
 <b>3. git add [file]</b>
 
 	git add index.html
+<b>3. OR git add [Folder]</b>
+
+	git add .
 <b> 4 git commit -m “[descriptive message]”</b>
 
 	git commit -m "first commit"
