@@ -29,7 +29,7 @@ Code 10 line
 Code 20 line
 Code 99 line
 
-<h1>03: Download and Install git on you PC: </h1>
+<h1>Lesson 03: Download and Install git on you PC: </h1>
 Go to this link : https://git-scm.com
 
 <b>Cheek version</b>
@@ -42,7 +42,7 @@ Go to this link : https://git-scm.com
 
 	clear
 
-<h1>Lesson 03: Setup & Configuration</h1>
+<h1>Lesson 04: Setup & Configuration</h1>
 <h6>Configuring user information used across all local repositories</h6>
 <b>git config --global user.name “[firstname lastname]”</b>
 	
@@ -61,7 +61,7 @@ Go to this link : https://git-scm.com
 		
 <b>Cheek </b>
 	git config user.name
-<h1> 03: Local Creating</h1>
+<h1>Lesson 05: Local Creating</h1>
 <b>Right Click on the Project folder >Click Git Bash Here </b>
 <b>1. Initialization:</b>
 
