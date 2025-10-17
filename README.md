@@ -31,10 +31,12 @@ Code 99 line
 <h1>03: Download and Install git on you PC: </h1>
 Go to this link : https://git-scm.com
 
-Cheek version	
+<b>Cheek version</b>
 
 	git --version
+<b>Cheek List</b>
 
+	git config --list
 
 <h1>Lesson 03: SETUP</h1>
 <h6>Configuring user information used across all local repositories</h6>
@@ -44,8 +46,10 @@ Cheek version
 <b>git config --global user.email “[valid-email]”</b>
 	
 	git config --global user.email "aliul1990gmail.com"
+<b>set automatic command line coloring for Git for easy reviewing</b>
 
-		: git config --list
+	git config --global color.ui auto
+
 Change Git Name	: git config user.name "Aliul-Islam"
 		: git config --list
 Cheek		: git config user.name
