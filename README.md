@@ -38,13 +38,12 @@ Cheek version
 
 <h1>Lesson 03: SETUP</h1>
 <h6>Configuring user information used across all local repositories</h6>
-
-Configaration	: git config
 <b>git config --global user.name “[firstname lastname]”</b>
 	
 	git config --global user.name "Aliul"
-
-		: git config --global user.email "aliul1990gmail.com"
+git config --global user.email “[valid-email]”
+	
+	git config --global user.email "aliul1990gmail.com"
 
 		: git config --list
 Change Git Name	: git config user.name "Aliul-Islam"
