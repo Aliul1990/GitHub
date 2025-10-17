@@ -40,7 +40,8 @@ Cheek version
 <h6>Configuring user information used across all local repositories</h6>
 
 Configaration	: git config
-		: git config --global user.name "Aliul"
+<b>git config --global user.name “[firstname lastname]”</b>
+	git config --global user.name "Aliul"
 
 		: git config --global user.email "aliul1990gmail.com"
 
