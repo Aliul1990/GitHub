@@ -35,6 +35,10 @@ Cheek version
 
 	git --version
 
+
+<h1>Lesson 03: SETUP
+	Configuring user information used across all local repositories</h1>
+
 Configaration	: git config
 		: git config --global user.name "Aliul"
 
