@@ -30,7 +30,8 @@ Code 99 line
 
 <h1>03: Download and Install git on you PC: </h1>
 Go to this link : https://git-scm.com
-Cheek version	: git --version
+Cheek version	
+		: git --version
 
 Configaration	: git config
 		: git config --global user.name "Aliul"
