@@ -78,7 +78,7 @@ Go to this link : https://git-scm.com
 <b> 4 git commit -m “[descriptive message]”</b>
 
 	git commit -m "first commit"
-<h1>Lesson 06: Creating Reposition on GitHub and Flow the Instruction</h1>
+<h1>Lesson 06: Creating Repository on GitHub and Flow the Instruction</h1>
 
 
 ## 🔗 Links
