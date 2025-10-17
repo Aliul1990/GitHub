@@ -62,14 +62,19 @@ Go to this link : https://git-scm.com
 <b>Cheek </b>
 	git config user.name
 <h1> 03: Local Creating</h1>
+<b>Right Click on the Project folder >Click Git Bash Here </b>
+<b>1. Initialization:</b>
 
-1. Create a Folder	: git-aliul
-[NB: Right Click on folder and then click "Git Bash here" open it]
+	git init
+<b>2. Status:</b>
 
-2. Initialization	: git init
-3. Status		: git status
-4. Add file		: ls -a
-or			: touch day1.txt
+	git status
+<b>3. git add [file]</b>
+
+	git add index.html
+<b> 4 git commit -m “[descriptive message]”</b>
+
+	git commit -m "first commit"
 
 
 
