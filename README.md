@@ -37,6 +37,9 @@ Go to this link : https://git-scm.com
 <b>Cheek List</b>
 
 	git config --list
+<b>clean screen</b>
+
+	clear
 
 <h1>Lesson 03: SETUP</h1>
 <h6>Configuring user information used across all local repositories</h6>
