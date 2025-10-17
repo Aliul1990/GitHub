@@ -41,7 +41,7 @@ Cheek version
 <b>git config --global user.name “[firstname lastname]”</b>
 	
 	git config --global user.name "Aliul"
-git config --global user.email “[valid-email]”
+<b>git config --global user.email “[valid-email]”</b>
 	
 	git config --global user.email "aliul1990gmail.com"
 
