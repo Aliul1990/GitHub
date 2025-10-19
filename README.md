@@ -29,6 +29,10 @@ Code 10 line
 Code 20 line
 Code 99 line
 Process: |1.Directory > git add | Stage | Repository
+
+![1760551664314](https://github.com/user-attachments/assets/77eea67a-e8b4-47ca-9dc6-65095229bd3b)
+
+
 <h1>Lesson 03: Download and Install git on you PC: </h1>
 Go to this link : https://git-scm.com
 
